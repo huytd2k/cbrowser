@@ -1,0 +1,13 @@
+name: cbrowser
+version: 0.1.0
+
+authors:
+  - Huy tran <huy.td183768@sis.hust.edu.vn>
+
+targets:
+  cbrowser:
+    main: src/cbrowser.cr
+
+crystal: 1.1.0
+
+license: MIT
